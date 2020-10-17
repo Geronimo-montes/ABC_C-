@@ -10,3 +10,14 @@
 /home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.dll
 /home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.pdb
 /home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.genruntimeconfig.cache
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\bin\Debug\netcoreapp2.1\Prueba_1.deps.json
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\bin\Debug\netcoreapp2.1\Prueba_1.runtimeconfig.json
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\bin\Debug\netcoreapp2.1\Prueba_1.runtimeconfig.dev.json
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\bin\Debug\netcoreapp2.1\Prueba_1.dll
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\bin\Debug\netcoreapp2.1\Prueba_1.pdb
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.csprojAssemblyReference.cache
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.csproj.CoreCompileInputs.cache
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.AssemblyInfoInputs.cache
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.AssemblyInfo.cs
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.dll
+C:\Users\Geronimo\Desktop\2_Administacion de proyectos de sw II\01.Programa\ABC_C-\obj\Debug\netcoreapp2.1\Prueba_1.pdb
