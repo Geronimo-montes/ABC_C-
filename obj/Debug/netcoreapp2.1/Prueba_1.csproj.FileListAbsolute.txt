@@ -1,0 +1,12 @@
+/home/linuxmind/Documentos/Glade/ABC_C-/bin/Debug/netcoreapp2.1/Prueba_1.deps.json
+/home/linuxmind/Documentos/Glade/ABC_C-/bin/Debug/netcoreapp2.1/Prueba_1.runtimeconfig.json
+/home/linuxmind/Documentos/Glade/ABC_C-/bin/Debug/netcoreapp2.1/Prueba_1.runtimeconfig.dev.json
+/home/linuxmind/Documentos/Glade/ABC_C-/bin/Debug/netcoreapp2.1/Prueba_1.dll
+/home/linuxmind/Documentos/Glade/ABC_C-/bin/Debug/netcoreapp2.1/Prueba_1.pdb
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.csprojAssemblyReference.cache
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.AssemblyInfoInputs.cache
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.AssemblyInfo.cs
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.csproj.CoreCompileInputs.cache
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.dll
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.pdb
+/home/linuxmind/Documentos/Glade/ABC_C-/obj/Debug/netcoreapp2.1/Prueba_1.genruntimeconfig.cache
